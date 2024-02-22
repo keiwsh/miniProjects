@@ -4,9 +4,10 @@
 
 This project was created during a two-day trial day at a software company, with the challenge of developing a number guessing game with leaderboard functionality using C#. Despite having no prior knowledge of C#, the game was successfully implemented within the given timeframe.
 
-Welcome to the Number Guessing Game with Leaderboard, a simple console application where you challenge your guessing skills and compete for the top spot on the leaderboard.
+
 
 ## Game Overview
+Welcome to the Number Guessing Game with Leaderboard, a simple console application where you challenge your guessing skills and compete for the top spot on the leaderboard.
 
 In this game, you, the player, will attempt to guess a secret number chosen by the game within a specified range. After each guess, you will receive feedback to guide you closer to the correct number. The game offers different difficulty levels, allowing you to tailor the challenge to your preference. Additionally, your performance will be recorded on the leaderboard, where you can strive to achieve the best score among all players.
 
